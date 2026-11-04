@@ -1,4 +1,6 @@
-# knights-trour
+# knights-tour
+
+> *Archived: built in 2025 to practise Python profiling. Not maintained.*
 
 ## Intro
 
